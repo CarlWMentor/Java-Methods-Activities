@@ -6,3 +6,4 @@
 4. **Monthly Budget Checker** - Calculates the total monthly expenses and determines whether you're spending within budget.
 5. **Shop Change Calculator** - Calculates change after customer pays for an item.
 6. **Shop Change Calculator With Added VAT15%**
+7. **Mobile Data Usuage Calculator** - A Java desktop application that allows a mobile user to check their monthly data usage against a fixed limit.
