@@ -7,3 +7,4 @@
 5. **Shop Change Calculator** - Calculates change after customer pays for an item.
 6. **Shop Change Calculator With Added VAT15%**
 7. **Mobile Data Usuage Calculator** - A Java desktop application that allows a mobile user to check their monthly data usage against a fixed limit.
+8. **Electrcity Bill Calculator** - A simple Java application that estimates a household's monthly electricity bill and checks whether it exceeds a high-bill threshold.
